@@ -19,6 +19,7 @@ jobs:
 
     steps:
       - run: echo "worldx"
+      - run echo $myvar
 
 
 
